@@ -1,0 +1,7 @@
+/nfs/homes/roglopes/projetos_all/github_42/Fractol-42sp/.library_mlx/MLX42/build/CMakeFiles/install/strip.dir
+/nfs/homes/roglopes/projetos_all/github_42/Fractol-42sp/.library_mlx/MLX42/build/CMakeFiles/install.dir
+/nfs/homes/roglopes/projetos_all/github_42/Fractol-42sp/.library_mlx/MLX42/build/CMakeFiles/list_install_components.dir
+/nfs/homes/roglopes/projetos_all/github_42/Fractol-42sp/.library_mlx/MLX42/build/CMakeFiles/rebuild_cache.dir
+/nfs/homes/roglopes/projetos_all/github_42/Fractol-42sp/.library_mlx/MLX42/build/CMakeFiles/edit_cache.dir
+/nfs/homes/roglopes/projetos_all/github_42/Fractol-42sp/.library_mlx/MLX42/build/CMakeFiles/install/local.dir
+/nfs/homes/roglopes/projetos_all/github_42/Fractol-42sp/.library_mlx/MLX42/build/CMakeFiles/mlx42.dir
